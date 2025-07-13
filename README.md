@@ -1,6 +1,6 @@
 # ferrimitoseg
 
-This repository contains the code of specifically targeting segmentation and localization of ferritin-labeled proteins in TEM images, for the the paper:
+This repository contains the code of specifically targeting segmentation and localization of ferritin-labeled proteins in TEM images, for the paper:
 
 **Genetically Encoded FerriTag as a Specific Label for Cryo-Electron Tomography**  
 Chang Wang, Ioan Iacovache, Amin Khosrozadeh, Benoît Zuber
