@@ -4,7 +4,10 @@ This repository contains the code of specifically targeting segmentation and loc
 
 **Genetically Encoded FerriTag as a Specific Label for Cryo-Electron Tomography**  
 Chang Wang, Ioan Iacovache, Amin Khosrozadeh, Benoît Zuber
-![result](./overlay_figure.svg)
+<div align="center">
+  <img src="./overlay_figure.svg" alt="Overlay Figure" width="300px">
+  <img src="./scatter_plot.svg" alt="Scatter Plot" width="300px">
+</div>
 
 ## Abstract
 
