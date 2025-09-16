@@ -1,6 +1,6 @@
 # ferrimitoseg
 
-This repository contains the code of specifically targeting segmentation and localization of ferritin-labeled proteins in TEM images, for the paper:
+This repository contains the code specifically targeting segmentation and localization of ferritin-labeled proteins in TEM images, for the paper:
 
 **Genetically Encoded FerriTag as a Specific Label for Cryo-Electron Tomography**  
 Chang Wang, Amin Khosrozadeh, Ioan Iacovache, Benoît Zuber
@@ -15,11 +15,11 @@ Cryo-electron tomography (cryoET) combined with subtomogram averaging has revolu
 
 ## Methodology Overview
 
-Here present a Fiji macro for ferritin segmentation and Python for subsequent quantitative analysis:
+Here, we present a Fiji macro for ferritin segmentation and Python for subsequent quantitative analysis:
 
 ### Ferritin segmentation in Fiji:
 - Gaussian filtering and intensity normalization using CLIJ2
-- Intensity transformations and Intermodes threshold binarization
+- Intensity transformations and intermode threshold binarization
 - Morphological refinement (erosion/dilation)
 
 ### Quantitative analysis in Python:
