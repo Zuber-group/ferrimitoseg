@@ -3,7 +3,7 @@
 This repository contains the code of specifically targeting segmentation and localization of ferritin-labeled proteins in TEM images, for the paper:
 
 **Genetically Encoded FerriTag as a Specific Label for Cryo-Electron Tomography**  
-Chang Wang, Ioan Iacovache, Amin Khosrozadeh, Benoît Zuber
+Chang Wang, Amin Khosrozadeh, Ioan Iacovache, Benoît Zuber
 <div align="center">
   <img src="./overlay_figure.svg" alt="Overlay Figure" width="300px">
   <img src="./scatter_plot.svg" alt="Scatter Plot" width="300px">
@@ -36,7 +36,7 @@ Here present a Fiji macro for ferritin segmentation and Python for subsequent qu
 
 If you use this code or approach in your research, please cite our paper:
 
-Wang, C., Iacovache, I., Khosrozadeh, A., & Zuber, B. (2024). *Genetically Encoded FerriTag as a Specific Label for Cryo-Electron Tomography*. bioRxiv, [https://doi.org/10.1101/2024.09.10.612178](https://doi.org/10.1101/2024.09.10.612178)
+Wang, C., Khosrozadeh, A., Iacovache, I. & Zuber, B. (2024). *Genetically Encoded FerriTag as a Specific Label for Cryo-Electron Tomography*. bioRxiv, [https://doi.org/10.1101/2024.09.10.612178](https://doi.org/10.1101/2024.09.10.612178)
 
 ## Additional References
 
